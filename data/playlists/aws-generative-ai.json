@@ -1,0 +1,164 @@
+{
+  "playlistId": "aws-generative-ai",
+  "title": "AWS Generative AI",
+  "youtubePlaylistId": "PLGKrjanDCdjrrIFa5jFtzBX1GN5MKB7qA",
+  "youtubeUrl": "https://www.youtube.com/playlist?list=PLGKrjanDCdjrrIFa5jFtzBX1GN5MKB7qA",
+  "lastSyncedAt": "2026-10-11T05:44:11+00:00",
+  "source": "YouTube playlist metadata exported with yt-dlp",
+  "videos": [
+    {
+      "id": "aws-generative-ai-maRIJykPz0g",
+      "videoId": "maRIJykPz0g",
+      "position": 1,
+      "title": "Amazon Bedrock AgentCore Crash Course | Build Your First AI Agent (Part 1)",
+      "description": "🚀 **Learn Amazon Bedrock AgentCore and build your first AI Agent on AWS!**\n\nIn **Part 1 of this Amazon Bedrock AgentCore Crash Course**, we'll take a hands-on, beginner-friendly approach to building an **AI Agent on AWS** using the **Amazon Bedrock AgentCore Console**.\n\nYou'll start with an **Amazon Bedrock AgentCore console walkthrough**, understand the key AgentCore components, and then build a practical **News & Weather AI Agent** that can use tools to retrieve information and respond to user requests.\n\n### 🚀 Continue the Amazon Bedrock AgentCore Crash Course\n\n👉 **Part 2: Build an AI Agent with AgentCore, AWS CDK & Lambda**\n\nhttps://www.youtube.com/watch?v=UyLCFFk2XaM\n\nIn Part 2, we'll move from the AWS Console to a **developer-focused, code-first implementation** using:\n\n* AWS CDK with TypeScript\n* AgentCore Runtime\n* AgentCore Gateway\n* AWS Lambda tools\n* Amazon Nova Lite\n* Tool calling\n* MCP\n* External API integrations\n* Deployment and testing\n\n🤖 **Complete Amazon Bedrock AgentCo",
+      "duration": "23:08",
+      "durationSeconds": 1388,
+      "publishedAt": "2026-09-18",
+      "thumbnail": "https://i.ytimg.com/vi_webp/maRIJykPz0g/maxresdefault.webp",
+      "youtubeUrl": "https://www.youtube.com/watch?v=maRIJykPz0g&list=PLGKrjanDCdjrrIFa5jFtzBX1GN5MKB7qA",
+      "category": "AI & Agents",
+      "level": "Beginner → Advanced",
+      "tags": [
+        "Amazon Bedrock",
+        "Amazon Q",
+        "AI agents",
+        "MCP",
+        "RAG",
+        "AI applications"
+      ]
+    },
+    {
+      "id": "aws-generative-ai-UyLCFFk2XaM",
+      "videoId": "UyLCFFk2XaM",
+      "position": 2,
+      "title": "Amazon Bedrock AgentCore Crash Course | Build an AI Agent with AWS CDK (Part 2)",
+      "description": "🚀 **Build and deploy a production-oriented AI Agent on AWS using Amazon Bedrock AgentCore, AWS CDK, Amazon Nova Lite, AgentCore Gateway, and AWS Lambda.**\n\nWelcome to **Part 2 of the Amazon Bedrock AgentCore Crash Course**.\n\nIn Part 1, we built our first AI Agent using the **Amazon Bedrock AgentCore Console**. In this tutorial, we'll move to a **developer-focused, code-first implementation** using **AWS CDK with TypeScript**.\n\nYou'll build an AI Agent that can understand user requests, select the right tool, call it through **AgentCore Gateway**, execute AWS Lambda functions, and use the results to generate a natural-language response.\n\n### 🚀 Continue the Amazon Bedrock AgentCore Crash Course\n\n📌 **Part 1: Build Your First AI Agent with Amazon Bedrock AgentCore**\nhttps://www.youtube.com/watch?v=maRIJykPz0g\n\n🤖 **Complete Amazon Bedrock AgentCore Playlist**\nhttps://www.youtube.com/playlist?list=PLOc1POQPHjTc\n\n### 🛠️ What You'll Build\n\n* Amazon Bedrock AgentCore Runtime\n* AgentCore Gateway",
+      "duration": "51:43",
+      "durationSeconds": 3103,
+      "publishedAt": "2026-09-08",
+      "thumbnail": "https://i.ytimg.com/vi/UyLCFFk2XaM/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=UyLCFFk2XaM&list=PLGKrjanDCdjrrIFa5jFtzBX1GN5MKB7qA",
+      "category": "AI & Agents",
+      "level": "Beginner → Advanced",
+      "tags": [
+        "Amazon Bedrock",
+        "Amazon Q",
+        "AI agents",
+        "MCP",
+        "RAG",
+        "AI applications"
+      ]
+    },
+    {
+      "id": "aws-generative-ai-8Klr2-osWQo",
+      "videoId": "8Klr2-osWQo",
+      "position": 3,
+      "title": "What is MCP (Model Context Protocol)? | Explained for Absolute Beginners",
+      "description": "🚀 What is MCP (Model Context Protocol)? | Explained for Absolute Beginners\n\nCurious about MCP (Model Context Protocol) and why everyone in the AI world is talking about it?\n\nIn this beginner-friendly tutorial, you'll learn what MCP is, why it matters, and how it helps AI models and AI agents securely connect with external tools, databases, APIs, applications, and real-world data sources.\n\nAs Generative AI and AI Agents become more popular, MCP is emerging as a standard way to enable AI systems to interact with tools and services without requiring custom integrations for every application.\n\n📌 In This Video\n\n✅ What is MCP (Model Context Protocol)?\n✅ Why MCP Was Created\n✅ Problems MCP Solves\n✅ MCP Explained in Simple Terms\n✅ How AI Agents Work\n✅ MCP Architecture Overview\n✅ MCP Client vs MCP Server\n✅ MCP vs Traditional APIs\n✅ MCP Real-World Examples\n✅ MCP Use Cases\n✅ Why MCP Matters for Generative AI\n✅ Future of AI Agents and MCP\n\n🤖 Concepts Covered\n\n• Model Context Protocol (MCP)\n• AI Age",
+      "duration": "7:43",
+      "durationSeconds": 463,
+      "publishedAt": "2025-08-02",
+      "thumbnail": "https://i.ytimg.com/vi/8Klr2-osWQo/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=8Klr2-osWQo&list=PLGKrjanDCdjrrIFa5jFtzBX1GN5MKB7qA",
+      "category": "AI & Agents",
+      "level": "Beginner → Advanced",
+      "tags": [
+        "Amazon Bedrock",
+        "Amazon Q",
+        "AI agents",
+        "MCP",
+        "RAG",
+        "AI applications"
+      ]
+    },
+    {
+      "id": "aws-generative-ai-nr1oK5Uslvs",
+      "videoId": "nr1oK5Uslvs",
+      "position": 4,
+      "title": "AWS Generative AI for Beginners | Amazon Bedrock & Amazon Q Explained",
+      "description": "🚀 AWS Generative AI for Beginners | Amazon Bedrock & Amazon Q Explained\n\nWant to learn Generative AI on AWS but don't know where to start?\n\nIn this beginner-friendly AWS Generative AI tutorial, you'll learn the fundamentals of Generative AI, Large Language Models (LLMs), Foundation Models (FMs), and the key AWS GenAI services including Amazon Bedrock and Amazon Q.\n\nWe'll explore Amazon Bedrock, review available foundation models, build a serverless Generative AI application, make API calls to Bedrock, and see how Amazon Q Developer can help developers write, explain, review, and debug code faster.\n\nWhether you're a developer, cloud engineer, solution architect, student, or AI enthusiast, this video will give you a solid understanding of the AWS Generative AI ecosystem.\n\n📌 In This Video\n\n✅ What is Generative AI?\n✅ Benefits of Generative AI\n✅ Foundation Models (FM) vs Large Language Models (LLM)\n✅ What is Amazon Bedrock?\n✅ Amazon Bedrock Console Walkthrough\n✅ Foundation Models Available ",
+      "duration": "27:26",
+      "durationSeconds": 1646,
+      "publishedAt": "2024-12-18",
+      "thumbnail": "https://i.ytimg.com/vi/nr1oK5Uslvs/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=nr1oK5Uslvs&list=PLGKrjanDCdjrrIFa5jFtzBX1GN5MKB7qA",
+      "category": "AI & Agents",
+      "level": "Beginner → Advanced",
+      "tags": [
+        "Amazon Bedrock",
+        "Amazon Q",
+        "AI agents",
+        "MCP",
+        "RAG",
+        "AI applications"
+      ]
+    },
+    {
+      "id": "aws-generative-ai-AnHNRy_8JgM",
+      "videoId": "AnHNRy_8JgM",
+      "position": 5,
+      "title": "🚀 Generative AI on AWS Explained in 3 Minutes | Amazon Bedrock, Amazon Q & Kiro",
+      "description": "🚀 Generative AI on AWS Explained in 3 Minutes | Amazon Bedrock, Amazon Q & Kiro\n\nGenerative AI (GenAI) is changing the way developers build applications, automate workflows, and create intelligent experiences. In this beginner-friendly AWS tutorial, you'll learn the fundamentals of Generative AI and how AWS services help organizations build AI-powered applications faster and more securely.\n\nWhether you're a developer, cloud engineer, student, or AWS enthusiast, this video provides a quick and practical introduction to AWS Generative AI services.\n\n📌 In This Video\n\n✅ What is Generative AI (GenAI)?\n✅ How Large Language Models (LLMs) work\n✅ Why Generative AI is transforming software development\n✅ Introduction to Amazon Bedrock\n✅ Foundation Models available through Bedrock\n✅ Amazon Q for developers and businesses\n✅ Kiro and AI-powered application development\n✅ Real-world Generative AI use cases on AWS\n✅ How to start your GenAI journey on AWS\n\n🛠 AWS Services Covered\n\n• Amazon Bedrock\n• Amazo",
+      "duration": "2:42",
+      "durationSeconds": 162,
+      "publishedAt": "2026-02-08",
+      "thumbnail": "https://i.ytimg.com/vi_webp/AnHNRy_8JgM/maxresdefault.webp",
+      "youtubeUrl": "https://www.youtube.com/watch?v=AnHNRy_8JgM&list=PLGKrjanDCdjrrIFa5jFtzBX1GN5MKB7qA",
+      "category": "AI & Agents",
+      "level": "Beginner → Advanced",
+      "tags": [
+        "Amazon Bedrock",
+        "Amazon Q",
+        "AI agents",
+        "MCP",
+        "RAG",
+        "AI applications"
+      ]
+    },
+    {
+      "id": "aws-generative-ai-A5tCBi7-dRE",
+      "videoId": "A5tCBi7-dRE",
+      "position": 6,
+      "title": "Code 10X Faster in VS Code with Amazon Q Developer | Python Demo",
+      "description": "🚀 Code 10X Faster in VS Code with Amazon Q Developer | Python Demo\n\nWant to write code faster, debug issues quicker, and boost your productivity using AI?\n\nIn this hands-on demo, you'll learn how to use Amazon Q Developer inside Visual Studio Code to generate code, explain existing code, create unit tests, review code quality, and debug issues using Generative AI.\n\nWe'll use Python examples to showcase how Amazon Q Developer can help developers build software faster and more efficiently directly from VS Code.\n\nWhether you're a beginner, software developer, cloud engineer, or AWS enthusiast, this AI-powered coding assistant can significantly improve your development workflow.\n\n📌 In This Video\n\n✅ What is Amazon Q Developer?\n✅ Installing Amazon Q in VS Code\n✅ Login Using AWS Builder ID\n✅ Generate Code with AI\n✅ Build New Features Faster\n✅ Create Unit Tests Automatically\n✅ Explain Existing Code\n✅ AI-Powered Code Reviews\n✅ Debug Code Issues with AI\n✅ Improve Developer Productivity\n✅ Real-Wo",
+      "duration": "19:55",
+      "durationSeconds": 1195,
+      "publishedAt": "2024-12-07",
+      "thumbnail": "https://i.ytimg.com/vi/A5tCBi7-dRE/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=A5tCBi7-dRE&list=PLGKrjanDCdjrrIFa5jFtzBX1GN5MKB7qA",
+      "category": "AI & Agents",
+      "level": "Beginner → Advanced",
+      "tags": [
+        "Amazon Bedrock",
+        "Amazon Q",
+        "AI agents",
+        "MCP",
+        "RAG",
+        "AI applications"
+      ]
+    },
+    {
+      "id": "aws-generative-ai-EcWCSIXEyxQ",
+      "videoId": "EcWCSIXEyxQ",
+      "position": 7,
+      "title": "Build a Node.js REST API Faster with Amazon Q Developer | AI Coding Demo",
+      "description": "🚀 Build a Node.js REST API Faster with Amazon Q Developer | AI Coding Demo\n\nWant to build REST APIs faster using AI?\n\nIn this hands-on demo, you'll learn how to use Amazon Q Developer to accelerate Node.js and Express.js development. We'll build a complete REST API while leveraging AI to generate code, explain logic, improve implementation, and boost developer productivity.\n\nAmazon Q Developer is AWS's AI-powered coding assistant that helps developers write, review, debug, and understand code directly from their IDE.\n\nWhether you're a beginner learning Node.js or an experienced developer exploring AI-assisted development, this video will show you how Amazon Q can speed up your workflow.\n\n📌 In This Video\n\n✅ What is Amazon Q Developer?\n✅ How AI Helps Developers Write Code Faster\n✅ Install Amazon Q Developer\n✅ Configure Amazon Q in Your IDE\n✅ Build a REST API with Node.js & Express.js\n✅ Generate Code Using AI\n✅ Improve Existing Code\n✅ AI-Powered Code Explanations\n✅ Debug and Review Code F",
+      "duration": "17:13",
+      "durationSeconds": 1033,
+      "publishedAt": "2025-04-26",
+      "thumbnail": "https://i.ytimg.com/vi_webp/EcWCSIXEyxQ/maxresdefault.webp",
+      "youtubeUrl": "https://www.youtube.com/watch?v=EcWCSIXEyxQ&list=PLGKrjanDCdjrrIFa5jFtzBX1GN5MKB7qA",
+      "category": "AI & Agents",
+      "level": "Beginner → Advanced",
+      "tags": [
+        "Amazon Bedrock",
+        "Amazon Q",
+        "AI agents",
+        "MCP",
+        "RAG",
+        "AI applications"
+      ]
+    }
+  ]
+}

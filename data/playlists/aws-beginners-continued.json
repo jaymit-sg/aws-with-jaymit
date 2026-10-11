@@ -1,0 +1,238 @@
+{
+  "playlistId": "aws-beginners-continued",
+  "title": "AWS for Absolute Beginners — More Lessons",
+  "youtubePlaylistId": "PLGKrjanDCdjq2Cnm0eOwzGfYXPDfswT61",
+  "youtubeUrl": "https://www.youtube.com/playlist?list=PLGKrjanDCdjq2Cnm0eOwzGfYXPDfswT61",
+  "lastSyncedAt": "2026-10-11T05:43:32+00:00",
+  "source": "YouTube playlist metadata exported with yt-dlp",
+  "videos": [
+    {
+      "id": "aws-beginners-continued-gwyoMt8qw4A",
+      "videoId": "gwyoMt8qw4A",
+      "position": 1,
+      "title": "AWS Services Overview for Beginners | What is AWS & Cloud Computing?",
+      "description": "This video is AWS Overview Part 1 out of 12 Parts, In this video cover below points:\n1. What is Cloud Computing?\n2. What is AWS?\n3. What is AWS Free Tier?\n4. How to Start with AWS for Beginners\n\n🚨 AWS Overview Tutorial Part 1 to 12 Videos:\n\n✅ AWS Overview Part 1: What is AWS | What is Cloud Computing | AWS Free Tier | AWS Console Signup : https://www.youtube.com/watch?v=gwyoMt8qw4A\n \n✅ AWS Overview Part 2: Compute Services | EC2 | Lambda | Lightsail : https://www.youtube.com/watch?v=WBaWBvZRgwg\n\n✅ AWS Overview Part 3: Storage Services | S3 | EFS | Storage Gateway : https://www.youtube.com/watch?v=dMRset0hWWU\n\n✅ AWS Overview Part 4: Database Services | RDS | DynamoDb | ElastiCache : https://www.youtube.com/watch?v=srCCI4VgwHY\n\n✅ AWS Overview Part 5: Network Services | VPC | Route 53 | CloudFront | API Gateway : https://www.youtube.com/watch?v=R8vRLMIw1EQ\n\n✅ AWS Overview Part 6: Governance Services | CloudFormation | CloudWatch | Auto Scaling | CloudTrail : https://www.youtube.com/watch?",
+      "duration": "6:55",
+      "durationSeconds": 415,
+      "publishedAt": "2022-06-16",
+      "thumbnail": "https://i.ytimg.com/vi_webp/gwyoMt8qw4A/maxresdefault.webp",
+      "youtubeUrl": "https://www.youtube.com/watch?v=gwyoMt8qw4A&list=PLGKrjanDCdjq2Cnm0eOwzGfYXPDfswT61",
+      "category": "Fundamentals",
+      "level": "Beginner",
+      "tags": [
+        "AWS fundamentals",
+        "Core services",
+        "Beginner practice"
+      ]
+    },
+    {
+      "id": "aws-beginners-continued-WBaWBvZRgwg",
+      "videoId": "WBaWBvZRgwg",
+      "position": 2,
+      "title": "AWS Compute Services Explained | EC2, Lambda & Lightsail",
+      "description": "AWS Tutorial for Most Used Computer Service Overview In 5 Minute - Free AWS Tutorial For Beginners\n\nAws compute, Aws EC2, Aws lambda\naws lambda tutorial\naws cloud practitioner\n\n🚨 AWS Overview Tutorial Part 1 to 12 Videos:\n\n✅ AWS Overview Part 1: What is AWS | What is Cloud Computing | AWS Free Tier | AWS Console Signup : https://www.youtube.com/watch?v=gwyoMt8qw4A\n \n✅ AWS Overview Part 2: Compute Services | EC2 | Lambda | Lightsail : https://www.youtube.com/watch?v=WBaWBvZRgwg\n\n✅ AWS Overview Part 3: Storage Services | S3 | EFS | Storage Gateway : https://www.youtube.com/watch?v=dMRset0hWWU\n\n✅ AWS Overview Part 4: Database Services | RDS | DynamoDb | ElastiCache : https://www.youtube.com/watch?v=srCCI4VgwHY\n\n✅ AWS Overview Part 5: Network Services | VPC | Route 53 | CloudFront | API Gateway : https://www.youtube.com/watch?v=R8vRLMIw1EQ\n\n✅ AWS Overview Part 6: Governance Services | CloudFormation | CloudWatch | Auto Scaling | CloudTrail : https://www.youtube.com/watch?v=1lny7fjOJWQ\n\n✅ A",
+      "duration": "4:51",
+      "durationSeconds": 291,
+      "publishedAt": "2022-04-03",
+      "thumbnail": "https://i.ytimg.com/vi_webp/WBaWBvZRgwg/maxresdefault.webp",
+      "youtubeUrl": "https://www.youtube.com/watch?v=WBaWBvZRgwg&list=PLGKrjanDCdjq2Cnm0eOwzGfYXPDfswT61",
+      "category": "Fundamentals",
+      "level": "Beginner",
+      "tags": [
+        "AWS fundamentals",
+        "Core services",
+        "Beginner practice"
+      ]
+    },
+    {
+      "id": "aws-beginners-continued-dMRset0hWWU",
+      "videoId": "dMRset0hWWU",
+      "position": 3,
+      "title": "AWS Storage Services Explained | S3, EFS & Storage Gateway",
+      "description": "AWS Tutorial For Most Used Storage Service Overview In 2 Minute - Free AWS Tutorial For Beginners\n\nAws storage\nAws S3\nAws EFS\nAws storage gateway\nAws storage services\n\n🚨 AWS Overview Tutorial Part 1 to 12 Videos:\n\n✅ AWS Overview Part 1: What is AWS | What is Cloud Computing | AWS Free Tier | AWS Console Signup : https://www.youtube.com/watch?v=gwyoMt8qw4A\n \n✅ AWS Overview Part 2: Compute Services | EC2 | Lambda | Lightsail : https://www.youtube.com/watch?v=WBaWBvZRgwg\n\n✅ AWS Overview Part 3: Storage Services | S3 | EFS | Storage Gateway : https://www.youtube.com/watch?v=dMRset0hWWU\n\n✅ AWS Overview Part 4: Database Services | RDS | DynamoDb | ElastiCache : https://www.youtube.com/watch?v=srCCI4VgwHY\n\n✅ AWS Overview Part 5: Network Services | VPC | Route 53 | CloudFront | API Gateway : https://www.youtube.com/watch?v=R8vRLMIw1EQ\n\n✅ AWS Overview Part 6: Governance Services | CloudFormation | CloudWatch | Auto Scaling | CloudTrail : https://www.youtube.com/watch?v=1lny7fjOJWQ\n\n✅ AWS Overvi",
+      "duration": "2:01",
+      "durationSeconds": 121,
+      "publishedAt": "2022-04-04",
+      "thumbnail": "https://i.ytimg.com/vi_webp/dMRset0hWWU/maxresdefault.webp",
+      "youtubeUrl": "https://www.youtube.com/watch?v=dMRset0hWWU&list=PLGKrjanDCdjq2Cnm0eOwzGfYXPDfswT61",
+      "category": "Fundamentals",
+      "level": "Beginner",
+      "tags": [
+        "AWS fundamentals",
+        "Core services",
+        "Beginner practice"
+      ]
+    },
+    {
+      "id": "aws-beginners-continued-srCCI4VgwHY",
+      "videoId": "srCCI4VgwHY",
+      "position": 4,
+      "title": "AWS Database Services Explained | RDS, DynamoDB & ElastiCache",
+      "description": "AWS Tutorial For Most Used Database Services Overview In 5 Minute - Free AWS Tutorial For Beginners\n\nAws database services overview - RDS, DynamoDb, ElastiCache\n\nAws MySQL\nAws rds\n\n🚨 AWS Overview Tutorial Part 1 to 12 Videos:\n\n✅ AWS Overview Part 1: What is AWS | What is Cloud Computing | AWS Free Tier | AWS Console Signup : https://www.youtube.com/watch?v=gwyoMt8qw4A\n \n✅ AWS Overview Part 2: Compute Services | EC2 | Lambda | Lightsail : https://www.youtube.com/watch?v=WBaWBvZRgwg\n\n✅ AWS Overview Part 3: Storage Services | S3 | EFS | Storage Gateway : https://www.youtube.com/watch?v=dMRset0hWWU\n\n✅ AWS Overview Part 4: Database Services | RDS | DynamoDb | ElastiCache : https://www.youtube.com/watch?v=srCCI4VgwHY\n\n✅ AWS Overview Part 5: Network Services | VPC | Route 53 | CloudFront | API Gateway : https://www.youtube.com/watch?v=R8vRLMIw1EQ\n\n✅ AWS Overview Part 6: Governance Services | CloudFormation | CloudWatch | Auto Scaling | CloudTrail : https://www.youtube.com/watch?v=1lny7fjOJWQ\n",
+      "duration": "6:06",
+      "durationSeconds": 366,
+      "publishedAt": "2022-04-04",
+      "thumbnail": "https://i.ytimg.com/vi_webp/srCCI4VgwHY/maxresdefault.webp",
+      "youtubeUrl": "https://www.youtube.com/watch?v=srCCI4VgwHY&list=PLGKrjanDCdjq2Cnm0eOwzGfYXPDfswT61",
+      "category": "Fundamentals",
+      "level": "Beginner",
+      "tags": [
+        "AWS fundamentals",
+        "Core services",
+        "Beginner practice"
+      ]
+    },
+    {
+      "id": "aws-beginners-continued-R8vRLMIw1EQ",
+      "videoId": "R8vRLMIw1EQ",
+      "position": 5,
+      "title": "AWS Networking Services Explained | VPC, Route 53, CloudFront & API Gateway",
+      "description": "AWS Tutorial For Most Used Networking And Content Delivery Services Overview - Free AWS Tutorial For Beginners\n\naws networking and content delivery services overview - VPC, Route 53, API Gateway, CloudFront\n\ncontent delivery - cdn\n\n🚨 AWS Overview Tutorial Part 1 to 12 Videos:\n\n✅ AWS Overview Part 1: What is AWS | What is Cloud Computing | AWS Free Tier | AWS Console Signup : https://www.youtube.com/watch?v=gwyoMt8qw4A\n \n✅ AWS Overview Part 2: Compute Services | EC2 | Lambda | Lightsail : https://www.youtube.com/watch?v=WBaWBvZRgwg\n\n✅ AWS Overview Part 3: Storage Services | S3 | EFS | Storage Gateway : https://www.youtube.com/watch?v=dMRset0hWWU\n\n✅ AWS Overview Part 4: Database Services | RDS | DynamoDb | ElastiCache : https://www.youtube.com/watch?v=srCCI4VgwHY\n\n✅ AWS Overview Part 5: Network Services | VPC | Route 53 | CloudFront | API Gateway : https://www.youtube.com/watch?v=R8vRLMIw1EQ\n\n✅ AWS Overview Part 6: Governance Services | CloudFormation | CloudWatch | Auto Scaling | CloudT",
+      "duration": "9:44",
+      "durationSeconds": 584,
+      "publishedAt": "2022-04-04",
+      "thumbnail": "https://i.ytimg.com/vi_webp/R8vRLMIw1EQ/maxresdefault.webp",
+      "youtubeUrl": "https://www.youtube.com/watch?v=R8vRLMIw1EQ&list=PLGKrjanDCdjq2Cnm0eOwzGfYXPDfswT61",
+      "category": "Fundamentals",
+      "level": "Beginner",
+      "tags": [
+        "AWS fundamentals",
+        "Core services",
+        "Beginner practice"
+      ]
+    },
+    {
+      "id": "aws-beginners-continued-1lny7fjOJWQ",
+      "videoId": "1lny7fjOJWQ",
+      "position": 6,
+      "title": "AWS Management & Governance Services Explained | CloudFormation, CloudWatch & CloudTrail",
+      "description": "AWS Tutorial For Most Used Management And Governance Services Overview In 5 Minutes\n\naws tutorial management and governance services overview - Auto Scaling, CloudFormation, CloudWatch\n\n🚨 AWS Overview Tutorial Part 1 to 12 Videos:\n\n✅ AWS Overview Part 1: What is AWS | What is Cloud Computing | AWS Free Tier | AWS Console Signup : https://www.youtube.com/watch?v=gwyoMt8qw4A\n \n✅ AWS Overview Part 2: Compute Services | EC2 | Lambda | Lightsail : https://www.youtube.com/watch?v=WBaWBvZRgwg\n\n✅ AWS Overview Part 3: Storage Services | S3 | EFS | Storage Gateway : https://www.youtube.com/watch?v=dMRset0hWWU\n\n✅ AWS Overview Part 4: Database Services | RDS | DynamoDb | ElastiCache : https://www.youtube.com/watch?v=srCCI4VgwHY\n\n✅ AWS Overview Part 5: Network Services | VPC | Route 53 | CloudFront | API Gateway : https://www.youtube.com/watch?v=R8vRLMIw1EQ\n\n✅ AWS Overview Part 6: Governance Services | CloudFormation | CloudWatch | Auto Scaling | CloudTrail : https://www.youtube.com/watch?v=1lny7fj",
+      "duration": "5:18",
+      "durationSeconds": 318,
+      "publishedAt": "2022-04-04",
+      "thumbnail": "https://i.ytimg.com/vi_webp/1lny7fjOJWQ/maxresdefault.webp",
+      "youtubeUrl": "https://www.youtube.com/watch?v=1lny7fjOJWQ&list=PLGKrjanDCdjq2Cnm0eOwzGfYXPDfswT61",
+      "category": "Fundamentals",
+      "level": "Beginner",
+      "tags": [
+        "AWS fundamentals",
+        "Core services",
+        "Beginner practice"
+      ]
+    },
+    {
+      "id": "aws-beginners-continued-sKzb1HQ_AvA",
+      "videoId": "sKzb1HQ_AvA",
+      "position": 7,
+      "title": "AWS Frontend Services Explained | Amplify, AppSync, Location Services & Device Farm",
+      "description": "AWS Tutorial For Most Used FrontEnd Web And Mobile Services Overview In 5 Minutes\n\nAws frontend web and mobile services overview -  aws amplify, aws appsync\n\nAws AppSync\nAws amplify\nAws location services\nDevice farm\naws appsync amplify\n\n🚨 AWS Overview Tutorial Part 1 to 12 Videos:\n\n✅ AWS Overview Part 1: What is AWS | What is Cloud Computing | AWS Free Tier | AWS Console Signup : https://www.youtube.com/watch?v=gwyoMt8qw4A\n \n✅ AWS Overview Part 2: Compute Services | EC2 | Lambda | Lightsail : https://www.youtube.com/watch?v=WBaWBvZRgwg\n\n✅ AWS Overview Part 3: Storage Services | S3 | EFS | Storage Gateway : https://www.youtube.com/watch?v=dMRset0hWWU\n\n✅ AWS Overview Part 4: Database Services | RDS | DynamoDb | ElastiCache : https://www.youtube.com/watch?v=srCCI4VgwHY\n\n✅ AWS Overview Part 5: Network Services | VPC | Route 53 | CloudFront | API Gateway : https://www.youtube.com/watch?v=R8vRLMIw1EQ\n\n✅ AWS Overview Part 6: Governance Services | CloudFormation | CloudWatch | Auto Scaling | C",
+      "duration": "5:37",
+      "durationSeconds": 337,
+      "publishedAt": "2022-04-04",
+      "thumbnail": "https://i.ytimg.com/vi_webp/sKzb1HQ_AvA/maxresdefault.webp",
+      "youtubeUrl": "https://www.youtube.com/watch?v=sKzb1HQ_AvA&list=PLGKrjanDCdjq2Cnm0eOwzGfYXPDfswT61",
+      "category": "Fundamentals",
+      "level": "Beginner",
+      "tags": [
+        "AWS fundamentals",
+        "Core services",
+        "Beginner practice"
+      ]
+    },
+    {
+      "id": "aws-beginners-continued-5rszTaa3YcQ",
+      "videoId": "5rszTaa3YcQ",
+      "position": 8,
+      "title": "AWS Developer Tools Explained | CodeCommit, CodeBuild, CodeDeploy, CodePipeline & X-Ray",
+      "description": "AWS Tutorial For Most Used Developer Tools (CI/CD) Services Overview In 10 Minutes - Free AWS Tutorial For Beginners\n\nAws ci cd Developer tools services overview - Code commit, Code build, code deploy, Code pipeline\n\nAws ci/cd pipeline\n\n🚨 AWS Overview Tutorial Part 1 to 12 Videos:\n\n✅ AWS Overview Part 1: What is AWS | What is Cloud Computing | AWS Free Tier | AWS Console Signup : https://www.youtube.com/watch?v=gwyoMt8qw4A\n \n✅ AWS Overview Part 2: Compute Services | EC2 | Lambda | Lightsail : https://www.youtube.com/watch?v=WBaWBvZRgwg\n\n✅ AWS Overview Part 3: Storage Services | S3 | EFS | Storage Gateway : https://www.youtube.com/watch?v=dMRset0hWWU\n\n✅ AWS Overview Part 4: Database Services | RDS | DynamoDb | ElastiCache : https://www.youtube.com/watch?v=srCCI4VgwHY\n\n✅ AWS Overview Part 5: Network Services | VPC | Route 53 | CloudFront | API Gateway : https://www.youtube.com/watch?v=R8vRLMIw1EQ\n\n✅ AWS Overview Part 6: Governance Services | CloudFormation | CloudWatch | Auto Scaling | C",
+      "duration": "9:22",
+      "durationSeconds": 562,
+      "publishedAt": "2022-04-04",
+      "thumbnail": "https://i.ytimg.com/vi_webp/5rszTaa3YcQ/maxresdefault.webp",
+      "youtubeUrl": "https://www.youtube.com/watch?v=5rszTaa3YcQ&list=PLGKrjanDCdjq2Cnm0eOwzGfYXPDfswT61",
+      "category": "Fundamentals",
+      "level": "Beginner",
+      "tags": [
+        "AWS fundamentals",
+        "Core services",
+        "Beginner practice"
+      ]
+    },
+    {
+      "id": "aws-beginners-continued-8tlzM0kIPoc",
+      "videoId": "8tlzM0kIPoc",
+      "position": 9,
+      "title": "AWS Container Services Explained | ECS, EKS, ECR & Fargate",
+      "description": "AWS Tutorial For Most Used Containers Services Overview\n\nAws container services overview - ECS, EKS, ECR, Fargate\n\nAws ECR\naws ecs\naws eks\naws fargate\ndocker\nkubernetes\nmicroservices\n\n🚨 AWS Overview Tutorial Part 1 to 12 Videos:\n\n✅ AWS Overview Part 1: What is AWS | What is Cloud Computing | AWS Free Tier | AWS Console Signup : https://www.youtube.com/watch?v=gwyoMt8qw4A\n \n✅ AWS Overview Part 2: Compute Services | EC2 | Lambda | Lightsail : https://www.youtube.com/watch?v=WBaWBvZRgwg\n\n✅ AWS Overview Part 3: Storage Services | S3 | EFS | Storage Gateway : https://www.youtube.com/watch?v=dMRset0hWWU\n\n✅ AWS Overview Part 4: Database Services | RDS | DynamoDb | ElastiCache : https://www.youtube.com/watch?v=srCCI4VgwHY\n\n✅ AWS Overview Part 5: Network Services | VPC | Route 53 | CloudFront | API Gateway : https://www.youtube.com/watch?v=R8vRLMIw1EQ\n\n✅ AWS Overview Part 6: Governance Services | CloudFormation | CloudWatch | Auto Scaling | CloudTrail : https://www.youtube.com/watch?v=1lny7fjOJ",
+      "duration": "3:17",
+      "durationSeconds": 197,
+      "publishedAt": "2022-04-04",
+      "thumbnail": "https://i.ytimg.com/vi_webp/8tlzM0kIPoc/maxresdefault.webp",
+      "youtubeUrl": "https://www.youtube.com/watch?v=8tlzM0kIPoc&list=PLGKrjanDCdjq2Cnm0eOwzGfYXPDfswT61",
+      "category": "Fundamentals",
+      "level": "Beginner",
+      "tags": [
+        "AWS fundamentals",
+        "Core services",
+        "Beginner practice"
+      ]
+    },
+    {
+      "id": "aws-beginners-continued-GvCUFt5X-xA",
+      "videoId": "GvCUFt5X-xA",
+      "position": 10,
+      "title": "AWS Application Integration Services Explained | SQS, SNS, Step Functions & EventBridge",
+      "description": "AWS Tutorial For Most Used Application Integration Services Overview\n\nAws application integration serverless service overview - EventBridge, Sqs, Sns, StepFunctions\n\nAws Serverless\nServerless service\nStep Functions\namazon eventbridge\naws sqs\n\n🚨 AWS Overview Tutorial Part 1 to 12 Videos:\n\n✅ AWS Overview Part 1: What is AWS | What is Cloud Computing | AWS Free Tier | AWS Console Signup : https://www.youtube.com/watch?v=gwyoMt8qw4A\n \n✅ AWS Overview Part 2: Compute Services | EC2 | Lambda | Lightsail : https://www.youtube.com/watch?v=WBaWBvZRgwg\n\n✅ AWS Overview Part 3: Storage Services | S3 | EFS | Storage Gateway : https://www.youtube.com/watch?v=dMRset0hWWU\n\n✅ AWS Overview Part 4: Database Services | RDS | DynamoDb | ElastiCache : https://www.youtube.com/watch?v=srCCI4VgwHY\n\n✅ AWS Overview Part 5: Network Services | VPC | Route 53 | CloudFront | API Gateway : https://www.youtube.com/watch?v=R8vRLMIw1EQ\n\n✅ AWS Overview Part 6: Governance Services | CloudFormation | CloudWatch | Auto Scali",
+      "duration": "5:46",
+      "durationSeconds": 346,
+      "publishedAt": "2022-04-04",
+      "thumbnail": "https://i.ytimg.com/vi_webp/GvCUFt5X-xA/maxresdefault.webp",
+      "youtubeUrl": "https://www.youtube.com/watch?v=GvCUFt5X-xA&list=PLGKrjanDCdjq2Cnm0eOwzGfYXPDfswT61",
+      "category": "Fundamentals",
+      "level": "Beginner",
+      "tags": [
+        "AWS fundamentals",
+        "Core services",
+        "Beginner practice"
+      ]
+    },
+    {
+      "id": "aws-beginners-continued-duFHe5IU2gk",
+      "videoId": "duFHe5IU2gk",
+      "position": 11,
+      "title": "AWS Analytics Services Explained | Redshift, Athena, Glue, Kinesis & QuickSight",
+      "description": "AWS Tutorial For Most Used Analytics Services Overview\n\nAws analytics services overview - Redshift, Athena, Glue, Kinesis, QuickSight\n\n🚨 AWS Overview Tutorial Part 1 to 12 Videos:\n\n✅ AWS Overview Part 1: What is AWS | What is Cloud Computing | AWS Free Tier | AWS Console Signup : https://www.youtube.com/watch?v=gwyoMt8qw4A\n \n✅ AWS Overview Part 2: Compute Services | EC2 | Lambda | Lightsail : https://www.youtube.com/watch?v=WBaWBvZRgwg\n\n✅ AWS Overview Part 3: Storage Services | S3 | EFS | Storage Gateway : https://www.youtube.com/watch?v=dMRset0hWWU\n\n✅ AWS Overview Part 4: Database Services | RDS | DynamoDb | ElastiCache : https://www.youtube.com/watch?v=srCCI4VgwHY\n\n✅ AWS Overview Part 5: Network Services | VPC | Route 53 | CloudFront | API Gateway : https://www.youtube.com/watch?v=R8vRLMIw1EQ\n\n✅ AWS Overview Part 6: Governance Services | CloudFormation | CloudWatch | Auto Scaling | CloudTrail : https://www.youtube.com/watch?v=1lny7fjOJWQ\n\n✅ AWS Overview Part 7: FrontEnd Services | AW",
+      "duration": "4:14",
+      "durationSeconds": 254,
+      "publishedAt": "2022-04-04",
+      "thumbnail": "https://i.ytimg.com/vi_webp/duFHe5IU2gk/maxresdefault.webp",
+      "youtubeUrl": "https://www.youtube.com/watch?v=duFHe5IU2gk&list=PLGKrjanDCdjq2Cnm0eOwzGfYXPDfswT61",
+      "category": "Fundamentals",
+      "level": "Beginner",
+      "tags": [
+        "AWS fundamentals",
+        "Core services",
+        "Beginner practice"
+      ]
+    },
+    {
+      "id": "aws-beginners-continued-1qmiVMu5MUA",
+      "videoId": "1qmiVMu5MUA",
+      "position": 12,
+      "title": "AWS Architecture & Use Cases Explained | Common AWS Cloud Architectures",
+      "description": "AWS Common Use Cases And Architectures Overview\n\nAws common Use case\nAws reference architecture\nAws static website hosting\nAws usecase\nAws website hosting\nS3 static hosting\naws architecture example\nAws use case\nAws use cases\n\n🚨 AWS Overview Tutorial Part 1 to 12 Videos:\n\n✅ AWS Overview Part 1: What is AWS | What is Cloud Computing | AWS Free Tier | AWS Console Signup : https://www.youtube.com/watch?v=gwyoMt8qw4A\n \n✅ AWS Overview Part 2: Compute Services | EC2 | Lambda | Lightsail : https://www.youtube.com/watch?v=WBaWBvZRgwg\n\n✅ AWS Overview Part 3: Storage Services | S3 | EFS | Storage Gateway : https://www.youtube.com/watch?v=dMRset0hWWU\n\n✅ AWS Overview Part 4: Database Services | RDS | DynamoDb | ElastiCache : https://www.youtube.com/watch?v=srCCI4VgwHY\n\n✅ AWS Overview Part 5: Network Services | VPC | Route 53 | CloudFront | API Gateway : https://www.youtube.com/watch?v=R8vRLMIw1EQ\n\n✅ AWS Overview Part 6: Governance Services | CloudFormation | CloudWatch | Auto Scaling | CloudTrail :",
+      "duration": "18:01",
+      "durationSeconds": 1081,
+      "publishedAt": "2022-04-04",
+      "thumbnail": "https://i.ytimg.com/vi_webp/1qmiVMu5MUA/maxresdefault.webp",
+      "youtubeUrl": "https://www.youtube.com/watch?v=1qmiVMu5MUA&list=PLGKrjanDCdjq2Cnm0eOwzGfYXPDfswT61",
+      "category": "Fundamentals",
+      "level": "Beginner",
+      "tags": [
+        "AWS fundamentals",
+        "Core services",
+        "Beginner practice"
+      ]
+    }
+  ]
+}

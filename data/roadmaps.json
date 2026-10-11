@@ -1,0 +1,114 @@
+[
+  {
+    "id": "beginner",
+    "title": "AWS for Absolute Beginners",
+    "icon": "☁️",
+    "category": "Fundamentals",
+    "level": "Beginner",
+    "description": "Build your cloud foundation before moving into a specialty.",
+    "steps": [
+      "Cloud concepts, regions & Availability Zones",
+      "IAM and least privilege",
+      "S3 and core storage concepts",
+      "EC2 and compute choices",
+      "VPC, subnets & security groups",
+      "CloudWatch, logs & alarms"
+    ],
+    "videoIds": [
+      "aws-beginner-cloud",
+      "iam-basics",
+      "s3-fundamentals",
+      "vpc-networking",
+      "cloudwatch-observability"
+    ]
+  },
+  {
+    "id": "serverless",
+    "title": "AWS Serverless Developer",
+    "icon": "⚡",
+    "category": "Serverless",
+    "level": "Beginner → Advanced",
+    "description": "Build event-driven applications with managed services and infrastructure as code.",
+    "steps": [
+      "Lambda fundamentals",
+      "API Gateway + Lambda",
+      "DynamoDB data modelling",
+      "SQS, SNS & EventBridge",
+      "Step Functions",
+      "AWS CDK with TypeScript",
+      "Production readiness"
+    ],
+    "videoIds": [
+      "lambda",
+      "api-gateway-lambda",
+      "dynamodb-data-modeling",
+      "sqs-sns-eventbridge",
+      "step-functions",
+      "aws-cdk-typescript",
+      "serverless-production"
+    ]
+  },
+  {
+    "id": "ai",
+    "title": "AWS Generative AI & Agents",
+    "icon": "🤖",
+    "category": "AI & Agents",
+    "level": "Beginner → Advanced",
+    "description": "Move from foundation models to grounded applications and agentic workflows.",
+    "steps": [
+      "Generative AI foundations",
+      "Amazon Bedrock",
+      "RAG and knowledge bases",
+      "Tool calling and agents",
+      "AgentCore and MCP concepts",
+      "Production-minded AI"
+    ],
+    "videoIds": [
+      "bedrock-foundations",
+      "rag-knowledge-bases",
+      "bedrock-tool-use",
+      "agentcore-mcp",
+      "ai-production"
+    ]
+  },
+  {
+    "id": "devops",
+    "title": "AWS DevOps Engineer",
+    "icon": "🚀",
+    "category": "DevOps",
+    "level": "Beginner → Advanced",
+    "description": "Learn repeatable delivery, containers, infrastructure automation, and monitoring.",
+    "steps": [
+      "Git and CI/CD foundations",
+      "Docker, ECR and ECS",
+      "Infrastructure as code",
+      "Deploy and observe applications"
+    ],
+    "videoIds": [
+      "ci-cd",
+      "docker-ecs",
+      "aws-cdk-typescript",
+      "cloudwatch-observability"
+    ]
+  },
+  {
+    "id": "architect",
+    "title": "AWS Solutions Architect",
+    "icon": "🏗️",
+    "category": "Architecture",
+    "level": "Intermediate → Advanced",
+    "description": "Make thoughtful trade-offs around security, reliability, performance, and cost.",
+    "steps": [
+      "Well-Architected thinking",
+      "Networking and security",
+      "High availability and disaster recovery",
+      "Cost and performance"
+    ],
+    "videoIds": [
+      "well-architected",
+      "vpc-networking",
+      "disaster-recovery",
+      "cloudwatch-observability"
+    ]
+  }
+]

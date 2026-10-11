@@ -1,0 +1,70 @@
+{
+  "playlistId": "aws-certifications",
+  "title": "AWS Certifications",
+  "youtubePlaylistId": "PLGKrjanDCdjosLCtPCBLRiJnq7lWZrWbH",
+  "youtubeUrl": "https://www.youtube.com/playlist?list=PLGKrjanDCdjosLCtPCBLRiJnq7lWZrWbH",
+  "lastSyncedAt": "2026-10-11T05:44:15+00:00",
+  "source": "YouTube playlist metadata exported with yt-dlp",
+  "videos": [
+    {
+      "id": "aws-certifications-G8V1Cx5I2Mk",
+      "videoId": "G8V1Cx5I2Mk",
+      "position": 1,
+      "title": "AWS Certification Roadmap for Beginners | Cloud Roles Explained",
+      "description": "🚀 AWS Certification Roadmap for Beginners | Cloud Roles Explained\n\nConfused about which AWS certification to choose?\n\nIn this beginner-friendly AWS certification roadmap, you'll learn how AWS certifications align with different cloud career paths, including Cloud Engineer, Cloud Developer, Solutions Architect, DevOps Engineer, Data Engineer, Security Engineer, Machine Learning Engineer, and AI Engineer roles.\n\nWhether you're just starting your cloud journey or planning your next certification, this video will help you choose the right AWS certification based on your career goals.\n\n📌 In This Video\n\n✅ AWS Certification Overview\n✅ Foundational vs Associate vs Professional Certifications\n✅ AWS Certified Cloud Practitioner\n✅ AWS Certified Solutions Architect\n✅ AWS Certified Developer\n✅ AWS Certified SysOps Administrator\n✅ AWS Certified DevOps Engineer\n✅ AWS Certified Security Specialty\n✅ AWS Certified Machine Learning Engineer\n✅ AWS Certifications for AI & Generative AI\n✅ Cloud Roles Explai",
+      "duration": "12:16",
+      "durationSeconds": 736,
+      "publishedAt": "2023-12-30",
+      "thumbnail": "https://i.ytimg.com/vi_webp/G8V1Cx5I2Mk/maxresdefault.webp",
+      "youtubeUrl": "https://www.youtube.com/watch?v=G8V1Cx5I2Mk&list=PLGKrjanDCdjosLCtPCBLRiJnq7lWZrWbH",
+      "category": "Certification",
+      "level": "Beginner → Advanced",
+      "tags": [
+        "Certification roadmaps",
+        "Study plans",
+        "Exam tips",
+        "Career guidance"
+      ]
+    },
+    {
+      "id": "aws-certifications-QWC1N0j24NA",
+      "videoId": "QWC1N0j24NA",
+      "position": 2,
+      "title": "🚀 From Beginner to AWS Certified in 3 Weeks | Cloud Practitioner Journey",
+      "description": "🚀 From Beginner to AWS Certified in 3 Weeks | Cloud Practitioner Journey\n\nThinking about starting your AWS certification journey?\n\nIn this video, I'll share how I prepared for and passed the AWS Certified Cloud Practitioner exam in just 3 weeks. I'll walk you through my study plan, learning resources, practice exams, and tips that helped me understand cloud concepts and successfully clear the certification.\n\nIf you're a beginner with little or no cloud experience, this roadmap can help you prepare efficiently and avoid common mistakes.\n\n📌 In This Video\n\n✅ Why I Chose AWS Cloud Practitioner\n✅ My 3-Week Study Plan\n✅ Best AWS Learning Resources\n✅ Free & Paid Practice Tests\n✅ Important AWS Services to Focus On\n✅ Cloud Concepts Explained\n✅ Exam Tips & Strategies\n✅ Common Mistakes to Avoid\n✅ Exam Day Experience\n✅ What's Next After Cloud Practitioner?\n\n🎯 Perfect For\n\n• AWS Beginners\n• Students & Freshers\n• Software Developers\n• Cloud Enthusiasts\n• IT Professionals\n• Anyone Planning AWS Certif",
+      "duration": "5:50",
+      "durationSeconds": 350,
+      "publishedAt": "2023-12-24",
+      "thumbnail": "https://i.ytimg.com/vi_webp/QWC1N0j24NA/maxresdefault.webp",
+      "youtubeUrl": "https://www.youtube.com/watch?v=QWC1N0j24NA&list=PLGKrjanDCdjosLCtPCBLRiJnq7lWZrWbH",
+      "category": "Certification",
+      "level": "Beginner → Advanced",
+      "tags": [
+        "Certification roadmaps",
+        "Study plans",
+        "Exam tips",
+        "Career guidance"
+      ]
+    },
+    {
+      "id": "aws-certifications-oz66BHmiR2A",
+      "videoId": "oz66BHmiR2A",
+      "position": 3,
+      "title": "How They Earned the AWS Golden Jacket | Bojan & Bangaly's Journey",
+      "description": "🚀 How They Earned the AWS Golden Jacket | Bojan & Bangaly's Journey\n\nWhat does it take to earn the prestigious AWS Golden Jacket?\n\n🎤 Featured Guests\nBangaly Kaba, PhD, CISSP\n🔗 https://www.linkedin.com/in/bangaly-kaba-phd-cissp-6aa51925/\n\nBojan Sovilj\n🔗 https://www.linkedin.com/in/bojansovilj/\n\nStep inside the AWS Certified Lounge at AWS re:Invent, where dedication, consistency, and lifelong learning come together 💙\n\nIn this special interview, I sit down with Bojan and Bangaly to explore their incredible AWS Certification journey, the challenges they faced, the lessons they learned, and the strategies that helped them achieve one of the most respected milestones in the AWS certification community.\n\nWhether you're preparing for your first AWS certification or working toward advanced certifications, this conversation is packed with valuable insights, motivation, and practical advice to help you succeed on your own cloud journey.\n\n📌 In This Video\n\n✅ What is the AWS Golden Jacket?\n✅ Bojan &",
+      "duration": "13:50",
+      "durationSeconds": 830,
+      "publishedAt": "2025-12-14",
+      "thumbnail": "https://i.ytimg.com/vi_webp/oz66BHmiR2A/maxresdefault.webp",
+      "youtubeUrl": "https://www.youtube.com/watch?v=oz66BHmiR2A&list=PLGKrjanDCdjosLCtPCBLRiJnq7lWZrWbH",
+      "category": "Certification",
+      "level": "Beginner → Advanced",
+      "tags": [
+        "Certification roadmaps",
+        "Study plans",
+        "Exam tips",
+        "Career guidance"
+      ]
+    }
+  ]
+}

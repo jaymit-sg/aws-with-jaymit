@@ -1,0 +1,118 @@
+[
+  {
+    "id": "aws-beginners",
+    "title": "AWS for Absolute Beginners",
+    "description": "Start with cloud computing, AWS basics, account setup, core services, and beginner-friendly hands-on learning.",
+    "category": "Fundamentals",
+    "level": "Beginner",
+    "icon": "☁️",
+    "youtubePlaylistId": "PLGKrjanDCdjq3-Y9j84blZQCDDhXX1T0c",
+    "youtubeUrl": "https://www.youtube.com/playlist?list=PLGKrjanDCdjq3-Y9j84blZQCDDhXX1T0c",
+    "topics": [
+      "Cloud computing",
+      "AWS basics",
+      "Account setup",
+      "EC2",
+      "S3",
+      "RDS",
+      "CloudWatch"
+    ],
+    "ordering": "youtube",
+    "dataFile": "data/playlists/aws-beginners.json"
+  },
+  {
+    "id": "aws-beginners-continued",
+    "title": "AWS for Absolute Beginners — More Lessons",
+    "description": "Additional beginner lessons from the second AWS for Absolute Beginners playlist.",
+    "category": "Fundamentals",
+    "level": "Beginner",
+    "icon": "🌱",
+    "youtubePlaylistId": "PLGKrjanDCdjq2Cnm0eOwzGfYXPDfswT61",
+    "youtubeUrl": "https://www.youtube.com/playlist?list=PLGKrjanDCdjq2Cnm0eOwzGfYXPDfswT61",
+    "topics": [
+      "AWS fundamentals",
+      "Core services",
+      "Beginner practice"
+    ],
+    "ordering": "youtube",
+    "dataFile": "data/playlists/aws-beginners-continued.json"
+  },
+  {
+    "id": "aws-serverless",
+    "title": "AWS Serverless",
+    "description": "Learn Lambda, API Gateway, DynamoDB, EventBridge, SQS, SNS, Step Functions, CDK, and more.",
+    "category": "Serverless",
+    "level": "Beginner → Advanced",
+    "icon": "⚡",
+    "youtubePlaylistId": "PLGKrjanDCdjpj3lJlLA7JdatMoEzoyA6W",
+    "youtubeUrl": "https://www.youtube.com/playlist?list=PLGKrjanDCdjpj3lJlLA7JdatMoEzoyA6W",
+    "topics": [
+      "Lambda",
+      "API Gateway",
+      "DynamoDB",
+      "EventBridge",
+      "SQS",
+      "SNS",
+      "Step Functions",
+      "AWS CDK"
+    ],
+    "ordering": "youtube",
+    "dataFile": "data/playlists/aws-serverless.json"
+  },
+  {
+    "id": "aws-generative-ai",
+    "title": "AWS Generative AI",
+    "description": "Explore Amazon Bedrock, Amazon Q, AI agents, MCP, RAG, and AI applications on AWS.",
+    "category": "AI & Agents",
+    "level": "Beginner → Advanced",
+    "icon": "🤖",
+    "youtubePlaylistId": "PLGKrjanDCdjrrIFa5jFtzBX1GN5MKB7qA",
+    "youtubeUrl": "https://www.youtube.com/playlist?list=PLGKrjanDCdjrrIFa5jFtzBX1GN5MKB7qA",
+    "topics": [
+      "Amazon Bedrock",
+      "Amazon Q",
+      "AI agents",
+      "MCP",
+      "RAG",
+      "AI applications"
+    ],
+    "ordering": "youtube",
+    "dataFile": "data/playlists/aws-generative-ai.json"
+  },
+  {
+    "id": "aws-certifications",
+    "title": "AWS Certifications",
+    "description": "Certification roadmaps, study plans, exam tips, and career guidance.",
+    "category": "Certification",
+    "level": "Beginner → Advanced",
+    "icon": "🏆",
+    "youtubePlaylistId": "PLGKrjanDCdjosLCtPCBLRiJnq7lWZrWbH",
+    "youtubeUrl": "https://www.youtube.com/playlist?list=PLGKrjanDCdjosLCtPCBLRiJnq7lWZrWbH",
+    "topics": [
+      "Certification roadmaps",
+      "Study plans",
+      "Exam tips",
+      "Career guidance"
+    ],
+    "ordering": "youtube",
+    "dataFile": "data/playlists/aws-certifications.json"
+  },
+  {
+    "id": "aws-community",
+    "title": "AWS Community",
+    "description": "AWS Community Builders, events, community learning, and career journey content.",
+    "category": "Community",
+    "level": "All levels",
+    "icon": "🌍",
+    "youtubePlaylistId": "PLGKrjanDCdjoPV2DcjnJ1xok4fazbfEEp",
+    "youtubeUrl": "https://www.youtube.com/playlist?list=PLGKrjanDCdjoPV2DcjnJ1xok4fazbfEEp",
+    "topics": [
+      "AWS Community Builders",
+      "Community events",
+      "Meetups",
+      "Career journey"
+    ],
+    "ordering": "youtube",
+    "dataFile": "data/playlists/aws-community.json"
+  }
+]
