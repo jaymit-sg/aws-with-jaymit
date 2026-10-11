@@ -84,9 +84,12 @@
     $("#videoGrid").innerHTML = filtered.map((video) => {
       const isDone = completed.has(video.id);
       const tags = (video.tags || []).slice(0, 4).map((tag) => `<span>#${escapeHTML(tag)}</span>`).join("");
+      const thumbSrc = video.thumbnail || (video.videoId ? `https://img.youtube.com/vi/${encodeURIComponent(video.videoId)}/mqdefault.jpg` : "");
+      const thumbHtml = thumbSrc ? `<a class="video-thumb" href="${escapeHTML(video.youtubeUrl)}" target="_blank" rel="noopener" aria-label="Watch ${escapeHTML(video.title)} on YouTube"><img src="${escapeHTML(thumbSrc)}" alt="${escapeHTML(video.title)}" loading="lazy"><span class="thumb-duration">${escapeHTML(video.duration)}</span></a>` : "";
       return `<article class="video-card">
+        ${thumbHtml}
         <div class="video-top"><span class="video-category">${escapeHTML(video.category)}</span><span class="level ${escapeHTML(video.level.toLowerCase())}">${escapeHTML(video.level)}</span></div>
-        <h3>${escapeHTML(video.title)}</h3><p>${escapeHTML(video.description)}</p>
+        <h3>${escapeHTML(video.title)}</h3>
         <div class="tags">${tags}</div>
         <div class="video-bottom"><span>◷ ${escapeHTML(video.duration)}</span><span class="${isDone ? "complete" : ""}">${isDone ? "✓ Completed" : "Not completed"}</span></div>
         <div class="card-actions"><a class="text-link" href="${escapeHTML(video.youtubeUrl)}" target="_blank" rel="noopener">Watch video ↗</a>${video.playlistId ? `<a class="text-link" href="playlist.html?id=${encodeURIComponent(video.playlistId)}">${escapeHTML(video.playlistTitle || "Playlist")} →</a>` : ""}<button class="text-link toggle-complete" data-id="${escapeHTML(video.id)}">${isDone ? "Undo completion" : "Mark complete"}</button></div>
