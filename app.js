@@ -48,7 +48,7 @@
         <details class="roadmap-details"><summary>View learning sequence (${roadmap.steps.length} steps)</summary><ol>${steps}</ol></details>
         <div class="path-meta"><span>${roadmapVideos.length} linked lessons</span><span>${escapeHTML(roadmap.level)}</span></div>
         <div class="mini-bar"><span style="width:${percent}%"></span></div><div class="path-foot"><span>${done} completed</span><b>${percent}% progress</b></div>
-        <button class="text-link roadmap-filter" data-category="${escapeHTML(roadmap.category)}">Explore ${escapeHTML(roadmap.category)} videos â†’</button>
+        <button class="text-link roadmap-filter" data-category="${escapeHTML(roadmap.category)}">Explore ${escapeHTML(roadmap.category)} videos →</button>
       </article>`;
     }).join("");
     document.querySelectorAll(".roadmap-filter").forEach((button) => button.addEventListener("click", () => {
@@ -91,8 +91,8 @@
         <div class="video-top"><span class="video-category">${escapeHTML(video.category)}</span><span class="level ${escapeHTML(video.level.toLowerCase())}">${escapeHTML(video.level)}</span></div>
         <h3>${escapeHTML(video.title)}</h3>
         <div class="tags">${tags}</div>
-        <div class="video-bottom"><span>â—· ${escapeHTML(video.duration)}</span><span class="${isDone ? "complete" : ""}">${isDone ? "âœ“ Completed" : "Not completed"}</span></div>
-        <div class="card-actions"><a class="text-link" href="${escapeHTML(video.youtubeUrl)}" target="_blank" rel="noopener">Watch video â†—</a>${video.playlistId ? `<a class="text-link" href="playlist.html?id=${encodeURIComponent(video.playlistId)}">${escapeHTML(video.playlistTitle || "Playlist")} â†’</a>` : ""}<button class="text-link toggle-complete" data-id="${escapeHTML(video.id)}">${isDone ? "Undo completion" : "Mark complete"}</button></div>
+        <div class="video-bottom"><span>◷ ${escapeHTML(video.duration)}</span><span class="${isDone ? "complete" : ""}">${isDone ? "✓ Completed" : "Not completed"}</span></div>
+        <div class="card-actions"><a class="text-link" href="${escapeHTML(video.youtubeUrl)}" target="_blank" rel="noopener">Watch video ↗</a>${video.playlistId ? `<a class="text-link" href="playlist.html?id=${encodeURIComponent(video.playlistId)}">${escapeHTML(video.playlistTitle || "Playlist")} →</a>` : ""}<button class="text-link toggle-complete" data-id="${escapeHTML(video.id)}">${isDone ? "Undo completion" : "Mark complete"}</button></div>
       </article>`;
     }).join("");
     document.querySelectorAll(".toggle-complete").forEach((button) => button.addEventListener("click", () => {
