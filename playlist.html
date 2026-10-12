@@ -1,27 +1,60 @@
-<!doctype html>
+﻿<!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Browse and watch every AWS with Jaymit playlist video, with search and sorting.">
-  <meta name="theme-color" content="#08111f"><title>Playlist | AWS with Jaymit</title><link rel="stylesheet" href="styles.css">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Watch and search every video in this AWS with Jaymit learning playlist — covering AWS cloud services, serverless, generative AI, and more.">
+  <meta name="theme-color" content="#08111f">
+  <title>AWS Playlist | AWS with Jaymit</title>
+
+  <!-- Canonical (updated dynamically by playlist.js once playlist data loads) -->
+  <link rel="canonical" href="https://awswithjaymit.com/playlists.html">
+
+  <!-- Open Graph (updated dynamically by playlist.js once playlist data loads) -->
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="AWS with Jaymit">
+  <meta property="og:title" content="AWS Playlist | AWS with Jaymit">
+  <meta property="og:description" content="Watch and search every video in this AWS with Jaymit learning playlist — covering AWS cloud services, serverless, generative AI, and more.">
+  <meta property="og:url" content="https://awswithjaymit.com/playlists.html">
+  <meta property="og:image" content="https://awswithjaymit.com/assets/og-image.png">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@awswithjaymit">
+  <meta name="twitter:title" content="AWS Playlist | AWS with Jaymit">
+  <meta name="twitter:description" content="Watch and search every video in this AWS with Jaymit learning playlist — covering AWS cloud services, serverless, generative AI, and more.">
+  <meta name="twitter:image" content="https://awswithjaymit.com/assets/og-image.png">
+
+  <!-- Favicon (add favicon-32x32.png, favicon-16x16.png, apple-touch-icon.png to repo root) -->
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&family=Space+Grotesk:wght@400;500;600;700&display=swap">
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 <header class="header"><div class="container nav">
-  <a class="brand" href="index.html"><span class="logo">J</span><span>AWS with Jaymit<small>LEARN · BUILD · GROW</small></span></a>
-  <nav id="navLinks"><a href="index.html#paths">Learning paths</a><a href="playlists.html">YouTube playlists</a><a href="index.html#catalog">Video library</a></nav>
-  <a class="btn primary nav-cta" href="https://www.youtube.com/@awswithjaymit" target="_blank" rel="noopener">▶ YouTube channel</a><button id="menuBtn" class="menu-btn" aria-label="Toggle navigation">☰</button>
+  <a class="brand" href="index.html"><span class="logo">J</span><span>AWS with Jaymit<small>LEARN Â· BUILD Â· GROW</small></span></a>
+  <nav id="navLinks" aria-label="Main navigation"><a href="index.html#paths">Learning paths</a><a href="playlists.html">YouTube playlists</a><a href="index.html#catalog">Video library</a></nav>
+  <a class="btn primary nav-cta" href="https://www.youtube.com/@awswithjaymit" target="_blank" rel="noopener">â–¶ YouTube channel</a><button id="menuBtn" class="menu-btn" aria-label="Toggle navigation">â˜°</button>
 </div></header>
 <main>
-  <section class="playlist-detail-hero"><div class="container"><div class="breadcrumbs"><a href="index.html">Home</a><span>/</span><a href="playlists.html">YouTube playlists</a><span>/</span><span id="crumbTitle">Playlist</span></div><div id="playlistHeader"><p class="loading">Loading playlist…</p></div></div></section>
+  <section class="playlist-detail-hero"><div class="container"><div class="breadcrumbs"><a href="index.html">Home</a><span>/</span><a href="playlists.html">YouTube playlists</a><span>/</span><span id="crumbTitle">Playlist</span></div><div id="playlistHeader"><h1 class="loading">Loading playlist…</h1></div></div></section>
   <section class="section"><div class="container">
-    <div class="native-player-layout"><div class="playlist-player-wrap"><div class="player-heading"><div><span class="kicker">Now playing</span><h2 id="nowPlayingTitle">Select a video</h2></div><a id="openCurrentVideo" class="text-link" href="#" target="_blank" rel="noopener" hidden>Open on YouTube ↗</a></div><div id="singleVideoPlayer" class="playlist-player"><p class="loading">Loading player…</p></div><div class="player-controls"><button id="previousVideo" class="btn secondary" disabled>← Previous</button><span id="playPosition" class="sort-pill">No video selected</span><button id="nextVideo" class="btn secondary" disabled>Next →</button></div></div>
-      <aside id="playlistSidebar" class="playlist-sidebar"><p class="loading">Loading playlist details…</p></aside></div>
-    <section class="native-video-section"><div class="native-video-heading"><div><span class="kicker">Complete video list</span><h2>Videos in this playlist</h2><p class="lead small-lead">Every video is rendered from this playlist’s own JSON file.</p></div><span id="videoCount" class="sort-pill">Loading videos…</span></div>
-      <div class="native-video-tools"><label class="searchbox"><span>⌕</span><input id="videoSearch" type="search" placeholder="Search this playlist by title or topic…" aria-label="Search videos in this playlist"><button id="clearVideoSearch" type="button" aria-label="Clear search">×</button></label><label class="sort-control"><span>Sort</span><select id="videoSort"><option value="position">Playlist order</option><option value="title-asc">Title A–Z</option><option value="title-desc">Title Z–A</option><option value="newest">Newest first</option><option value="oldest">Oldest first</option><option value="duration">Duration</option></select></label></div>
-      <p id="videoResultCount" class="result-line">Loading video list…</p><div id="nativeVideoList" class="native-video-list"><p class="loading">Loading videos…</p></div><p id="videoEmptyState" class="empty" hidden>No videos match your search.</p>
+    <div class="native-player-layout"><div class="playlist-player-wrap"><div class="player-heading"><div><span class="kicker">Now playing</span><h2 id="nowPlayingTitle">Select a video</h2></div><a id="openCurrentVideo" class="text-link" href="#" target="_blank" rel="noopener" hidden>Open on YouTube â†—</a></div><div id="singleVideoPlayer" class="playlist-player"><p class="loading">Loading playerâ€¦</p></div><div class="player-controls"><button id="previousVideo" class="btn secondary" disabled>â† Previous</button><span id="playPosition" class="sort-pill">No video selected</span><button id="nextVideo" class="btn secondary" disabled>Next â†’</button></div></div>
+      <aside id="playlistSidebar" class="playlist-sidebar"><p class="loading">Loading playlist detailsâ€¦</p></aside></div>
+    <section class="native-video-section"><div class="native-video-heading"><div><span class="kicker">Complete video list</span><h2>Videos in this playlist</h2><p class="lead small-lead">Every video is rendered from this playlistâ€™s own JSON file.</p></div><span id="videoCount" class="sort-pill">Loading videosâ€¦</span></div>
+      <div class="native-video-tools"><label class="searchbox"><span>âŒ•</span><input id="videoSearch" type="search" placeholder="Search this playlist by title or topicâ€¦" aria-label="Search videos in this playlist"><button id="clearVideoSearch" type="button" aria-label="Clear search">Ã—</button></label><label class="sort-control"><span>Sort</span><select id="videoSort" aria-label="Sort videos"><option value="position">Playlist order</option><option value="title-asc">Title Aâ€“Z</option><option value="title-desc">Title Zâ€“A</option><option value="newest">Newest first</option><option value="oldest">Oldest first</option><option value="duration">Duration</option></select></label></div>
+      <p id="videoResultCount" class="result-line">Loading video listâ€¦</p><div id="nativeVideoList" class="native-video-list"><p class="loading">Loading videosâ€¦</p></div><p id="videoEmptyState" class="empty" hidden>No videos match your search.</p>
     </section>
   </div></section>
 </main>
-<footer><div class="container footer-row"><a class="brand" href="index.html"><span class="logo small-logo">J</span><span>AWS with Jaymit<small>LEARN · BUILD · GROW</small></span></a><span>Independent AWS learning resource — not an official AWS website.</span><a href="https://www.youtube.com/@awswithjaymit" target="_blank" rel="noopener">YouTube ↗</a></div></footer>
+<footer><div class="container footer-row"><a class="brand" href="index.html"><span class="logo small-logo">J</span><span>AWS with Jaymit<small>LEARN Â· BUILD Â· GROW</small></span></a><span>Independent AWS learning resource â€” not an official AWS website.</span><a href="https://www.youtube.com/@awswithjaymit" target="_blank" rel="noopener">YouTube â†—</a></div></footer>
 <script src="playlist.js"></script>
 </body></html>

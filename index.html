@@ -1,4 +1,4 @@
-<!doctype html>
+﻿<!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
@@ -6,15 +6,74 @@
   <meta name="description" content="Learn AWS with Jaymit through searchable video lessons, structured learning paths, serverless tutorials, AI agents, and practical cloud topics.">
   <meta name="theme-color" content="#08111f">
   <title>AWS with Jaymit — Learn AWS. Build Real Projects.</title>
+
+  <!-- Canonical -->
+  <link rel="canonical" href="https://awswithjaymit.com/">
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="AWS with Jaymit">
+  <meta property="og:title" content="AWS with Jaymit — Learn AWS. Build Real Projects.">
+  <meta property="og:description" content="Learn AWS with Jaymit through searchable video lessons, structured learning paths, serverless tutorials, AI agents, and practical cloud topics.">
+  <meta property="og:url" content="https://awswithjaymit.com/">
+  <meta property="og:image" content="https://awswithjaymit.com/assets/og-image.png">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@awswithjaymit">
+  <meta name="twitter:title" content="AWS with Jaymit — Learn AWS. Build Real Projects.">
+  <meta name="twitter:description" content="Learn AWS with Jaymit through searchable video lessons, structured learning paths, serverless tutorials, AI agents, and practical cloud topics.">
+  <meta name="twitter:image" content="https://awswithjaymit.com/assets/og-image.png">
+
+  <!-- Favicon (add favicon-32x32.png, favicon-16x16.png, apple-touch-icon.png to repo root) -->
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+
+  <!-- Fonts — preconnect for faster load, replaces removed @import in styles.css -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&family=Space+Grotesk:wght@400;500;600;700&display=swap">
+
+  <!-- Styles -->
   <link rel="stylesheet" href="styles.css">
+
+  <!-- Structured Data: WebSite + Person -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://awswithjaymit.com/#website",
+        "url": "https://awswithjaymit.com/",
+        "name": "AWS with Jaymit",
+        "description": "Learn AWS through structured learning paths, searchable video lessons, serverless tutorials, and AI/cloud topics.",
+        "publisher": { "@id": "https://awswithjaymit.com/#person" },
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": { "@type": "EntryPoint", "urlTemplate": "https://awswithjaymit.com/?q={search_term_string}" },
+          "query-input": "required name=search_term_string"
+        }
+      },
+      {
+        "@type": "Person",
+        "@id": "https://awswithjaymit.com/#person",
+        "name": "Jaymit",
+        "url": "https://awswithjaymit.com/",
+        "sameAs": ["https://www.youtube.com/@awswithjaymit"]
+      }
+    ]
+  }
+  </script>
 </head>
 <body>
 <header class="header">
   <div class="container nav">
-    <a class="brand" href="#home"><span class="logo">J</span><span>AWS with Jaymit<small>LEARN · BUILD · GROW</small></span></a>
-    <nav id="navLinks"><a href="#paths">Learning paths</a><a href="playlists.html">YouTube playlists</a><a href="#catalog">Video library</a><a href="#progress">My progress</a></nav>
-    <a class="btn primary nav-cta" href="https://www.youtube.com/@awswithjaymit" target="_blank" rel="noopener">▶ YouTube channel</a>
-    <button id="menuBtn" class="menu-btn" aria-label="Toggle navigation">☰</button>
+    <a class="brand" href="/"><span class="logo">J</span><span>AWS with Jaymit<small>LEARN Â· BUILD Â· GROW</small></span></a>
+    <nav id="navLinks" aria-label="Main navigation"><a href="#paths">Learning paths</a><a href="playlists.html">YouTube playlists</a><a href="#catalog">Video library</a><a href="#progress">My progress</a></nav>
+    <a class="btn primary nav-cta" href="https://www.youtube.com/@awswithjaymit" target="_blank" rel="noopener">â–¶ YouTube channel</a>
+    <button id="menuBtn" class="menu-btn" aria-label="Toggle navigation">â˜°</button>
   </div>
 </header>
 
@@ -24,15 +83,15 @@
       <div>
         <span class="eyebrow"><span class="pulse"></span> Your AWS learning journey starts here</span>
         <h1>Learn AWS.<br><span>Build what matters.</span></h1>
-        <p class="lead">Find the right lesson, follow a clear roadmap, and build practical cloud skills — from AWS fundamentals to serverless and agentic AI.</p>
-        <div class="hero-actions"><a class="btn primary" href="#paths">Explore learning paths <span>→</span></a><a class="btn secondary" href="#catalog">Search video library</a></div>
+        <p class="lead">Find the right lesson, follow a clear roadmap, and build practical cloud skills â€” from AWS fundamentals to serverless and agentic AI.</p>
+        <div class="hero-actions"><a class="btn primary" href="#paths">Explore learning paths <span>â†’</span></a><a class="btn secondary" href="#catalog">Search video library</a></div>
         <div class="proof"><span><b>Video-led</b> Learn at your pace</span><span><b>Hands-on</b> Practice real skills</span><span><b>Self-paced</b> Track your progress</span></div>
       </div>
       <div class="dashboard">
-        <div class="dash-head"><div><small>YOUR LEARNING DASHBOARD</small><h2>My AWS journey</h2></div><span class="status">● Saved in browser</span></div>
+        <div class="dash-head"><div><small>YOUR LEARNING DASHBOARD</small><h2>My AWS journey</h2></div><span class="status">â— Saved in browser</span></div>
         <div class="progress-card"><div class="between"><b>Overall progress</b><b id="heroPercent">0%</b></div><div class="bar"><span id="heroBar"></span></div><div class="between muted"><span id="heroDone">0 lessons completed</span><span id="heroTotal">0 lessons</span></div></div>
-        <div class="dash-grid"><div class="dash-tile"><span>☁️</span><b>AWS fundamentals</b><small>Start with the basics</small></div><div class="dash-tile"><span>⚡</span><b>Serverless</b><small>Build event-driven apps</small></div><div class="dash-tile"><span>🤖</span><b>AI & agents</b><small>Build with Bedrock</small></div><div class="dash-tile"><span>🏗️</span><b>Architecture</b><small>Design reliable systems</small></div></div>
-        <div class="dash-foot"><small>THE LEARNING LOOP</small><b>Learn → Practice → Build → Review</b></div>
+        <div class="dash-grid"><div class="dash-tile"><span>â˜ï¸</span><b>AWS fundamentals</b><small>Start with the basics</small></div><div class="dash-tile"><span>âš¡</span><b>Serverless</b><small>Build event-driven apps</small></div><div class="dash-tile"><span>ðŸ¤–</span><b>AI & agents</b><small>Build with Bedrock</small></div><div class="dash-tile"><span>ðŸ—ï¸</span><b>Architecture</b><small>Design reliable systems</small></div></div>
+        <div class="dash-foot"><small>THE LEARNING LOOP</small><b>Learn â†’ Practice â†’ Build â†’ Review</b></div>
       </div>
     </div>
   </section>
@@ -40,7 +99,7 @@
   <section id="paths" class="section">
     <div class="container">
       <div class="section-head"><div><span class="kicker">Choose your destination</span><h2>Learning paths that make sense</h2></div><p>Choose your goal and follow a curated sequence instead of guessing which video to watch next.</p></div>
-      <div id="roadmapGrid" class="roadmap-grid"><p class="loading">Loading learning paths…</p></div>
+      <div id="roadmapGrid" class="roadmap-grid"><p class="loading">Loading learning pathsâ€¦</p></div>
     </div>
   </section>
 
@@ -48,9 +107,9 @@
     <div class="container">
       <div class="section-head"><div><span class="kicker">Searchable knowledge hub</span><h2>Find the lesson you need</h2></div><p>Search by AWS service, skill, concept, or topic. Filter by learning area and difficulty.</p></div>
       <div class="search-panel">
-        <label class="searchbox"><span>⌕</span><input id="searchInput" type="search" placeholder="Try Lambda, Bedrock, DynamoDB, MCP, CDK…" aria-label="Search videos"><button id="clearSearch" aria-label="Clear search">×</button></label>
+        <label class="searchbox"><span>âŒ•</span><input id="searchInput" type="search" placeholder="Try Lambda, Bedrock, DynamoDB, MCP, CDKâ€¦" aria-label="Search videos"><button id="clearSearch" aria-label="Clear search">Ã—</button></label>
         <div class="filter-row"><div id="categoryFilters" class="chips"></div><select id="levelFilter" aria-label="Filter by level"><option value="">All levels</option><option>Beginner</option><option>Intermediate</option><option>Advanced</option></select></div>
-        <div class="result-line"><span id="resultCount">Loading videos…</span><span>Video catalog powered by JSON</span></div>
+        <div class="result-line"><span id="resultCount">Loading videosâ€¦</span><span>Video catalog powered by JSON</span></div>
         <div id="videoGrid" class="video-grid"></div>
         <p id="emptyState" class="empty" hidden>No videos match that search. Try another keyword or clear filters.</p>
       </div>
@@ -60,14 +119,14 @@
   <section id="progress" class="section">
     <div class="container">
       <div class="section-head"><div><span class="kicker">Keep moving forward</span><h2>Your learning progress</h2></div><p>Mark lessons complete as you learn. Progress is saved locally in this browser.</p></div>
-      <div class="progress-dashboard"><div><small class="muted">OVERALL COMPLETION</small><div class="big-percent"><span id="progressPercent">0</span><small>%</small></div><div class="bar"><span id="progressBar"></span></div><p id="progressSummary" class="muted">0 lessons completed</p></div><div class="progress-message"><span class="next-icon">🧭</span><div><b>Keep your momentum</b><p>Open a roadmap to see your completed lessons and decide what to learn next.</p><a class="text-link" href="#paths">View learning paths →</a></div></div><button id="resetProgress" class="btn quiet">Reset progress</button></div>
+      <div class="progress-dashboard"><div><small class="muted">OVERALL COMPLETION</small><div class="big-percent"><span id="progressPercent">0</span><small>%</small></div><div class="bar"><span id="progressBar"></span></div><p id="progressSummary" class="muted">0 lessons completed</p></div><div class="progress-message"><span class="next-icon">ðŸ§­</span><div><b>Keep your momentum</b><p>Open a roadmap to see your completed lessons and decide what to learn next.</p><a class="text-link" href="#paths">View learning paths â†’</a></div></div><button id="resetProgress" class="btn quiet">Reset progress</button></div>
       <p class="fine-print">This version uses browser local storage. Progress does not sync across devices and no account is required.</p>
     </div>
   </section>
 
-  <section class="section cta-section"><div class="container"><div class="cta"><div><span class="kicker">Learn with Jaymit</span><h2>Build real skills, one lesson at a time.</h2><p>Use the structured roadmaps here, then dive deeper with video walkthroughs on the channel.</p></div><a class="btn primary" href="https://www.youtube.com/@awswithjaymit?sub_confirmation=1" target="_blank" rel="noopener">Subscribe on YouTube ↗</a></div></div></section>
+  <section class="section cta-section"><div class="container"><div class="cta"><div><span class="kicker">Learn with Jaymit</span><h2>Build real skills, one lesson at a time.</h2><p>Use the structured roadmaps here, then dive deeper with video walkthroughs on the channel.</p></div><a class="btn primary" href="https://www.youtube.com/@awswithjaymit?sub_confirmation=1" target="_blank" rel="noopener">Subscribe on YouTube â†—</a></div></div></section>
 </main>
-<footer><div class="container footer-row"><a class="brand" href="#home"><span class="logo small-logo">J</span><span>AWS with Jaymit<small>LEARN · BUILD · GROW</small></span></a><span>Independent AWS learning resource — not an official AWS website.</span><a href="https://www.youtube.com/@awswithjaymit" target="_blank" rel="noopener">YouTube ↗</a></div></footer>
+<footer><div class="container footer-row"><a class="brand" href="/"><span class="logo small-logo">J</span><span>AWS with Jaymit<small>LEARN Â· BUILD Â· GROW</small></span></a><span>Independent AWS learning resource â€” not an official AWS website.</span><a href="https://www.youtube.com/@awswithjaymit" target="_blank" rel="noopener">YouTube â†—</a></div></footer>
 <script src="app.js"></script>
 </body>
 </html>
